@@ -1,0 +1,6 @@
+[submodule "toxicscript-haskell"]
+	path = toxicscript-haskell
+	url = https://github.com/spikeyarmaku/toxicscript-haskell.git
+[submodule "toxicscript-csharp"]
+	path = toxicscript-csharp
+	url = https://github.com/spikeyarmaku/toxicscript-csharp.git

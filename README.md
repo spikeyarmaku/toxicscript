@@ -8,6 +8,7 @@ A few key points:
 - Functional
 - Curried by default
 - Latently typed
+- Mathematically unsound
 
 Inspired by [Haskell](https://haskell.org) and John Shutt's [Kernel](https://web.cs.wpi.edu/~jshutt/kernel.html).
 
